@@ -9,6 +9,6 @@ on an online system/platform. Students will be able to fill in their daily activ
 which will be then submitted to the university.
 
 Members: 
-Oscar Abas
+Oscar Abas and
 Derick Musiba
-J
+
